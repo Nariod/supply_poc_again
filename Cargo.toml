@@ -2,6 +2,8 @@
 name = "supply_poc_again"
 version = "0.1.0"
 edition = "2021"
+description = "This is useless code to test supply chain attacks with cargo and crates.io"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
